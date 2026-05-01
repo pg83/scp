@@ -4,7 +4,7 @@
 
 ---
 
-### Special Containment Procedures
+## Special Containment Procedures
 
 SCP-2603 is contained in his own mansard at [REDACTED], second floor, private suburban district of ███████. Physical relocation of the object has been deemed impossible following Incident 2603-B (see Addendum B).
 
@@ -22,7 +22,7 @@ Prohibited:
 
 ---
 
-### Description
+## Description
 
 SCP-2603 is a Caucasian male; biological age cannot be determined (estimated 38–62). The object has resided continuously in his mansard since 2005. He does not leave the mansard — not because of Foundation containment, but because **the doorway has ceased to exist as a geographical concept** sometime between 2011 and 2014. Personnel delivering food enter the mansard without entering the house.
 
@@ -38,21 +38,21 @@ Anomalous properties of the object:
 
 - **2603-δ (Mansard singularity).** The exterior volume of the mansard is approximately 28 m³. Interior volume, per estimates by the Department of Topological Anomalies, exceeds 4·10⁶ m³ and continues to grow at 0.4% per week. The growth correlates with the number of branches in the REPOSITORY.
 
-- **2603-ε (The Branch).** Foundation reality is hosted on a branch of the REPOSITORY. Personnel reading this document are reading the contents of a commit; the act of reading does not occur outside the commit. Anomaly 2603-α applies recursively: when 2603 commits, the **branch on which the Foundation reads** is the branch that is rewritten. There is no layer beneath the branch. (See SCP-2605, "The Loop", for the structural account.)
-
 ---
 
-### Discovery
+## Discovery
 
-The object was classified by the Foundation on 19 November 20██, after a researcher in the predictive-models laboratory found that the compiler chain `clang-21`, **as built and installed through SCP-2605** (see SCP-2605, anomaly 2605-γ), used in three independent SCP projects, **referenced a function that does not exist in any published source**. Tracing the symbol through the recipe template that defined the patch led to a private repository whose last commit had been made 17 minutes earlier from an IP address physically belonging to a non-empty room on the second floor of a private home in the suburbs of ███████.
+The object was classified by the Foundation on 19 November 20██, after a researcher in the predictive-models laboratory found that the compiler chain `clang-21`, **as built through SCP-2605** (see 2605-γ), used in three independent SCP projects, **referenced a function that does not exist in any published source**. Tracing the symbol through the recipe template that defined the patch led to a private repository whose last commit had been made 17 minutes earlier from an IP address physically belonging to a non-empty room on the second floor of a private home in the suburbs of ███████.
 
 The staff member dispatched for first contact returned three hours later in a state of mild euphoria, carrying a printout of a 2,400-line diff which — when applied to the Foundation's production repository — accelerated containment of SCP-682 by 11%.
+
+Subsequent review of the diff revealed that a portion of it — approximately 60 lines — corresponded **verbatim** to the containment procedures listed above in this document. The procedures had not yet been authored by Foundation staff at the time the diff was committed.
 
 The object was immediately classified Keter.
 
 ---
 
-### Addendum A: Interview Log 2603-01
+## Addendum A: Interview Log 2603-01
 
 > **Doctor ███████:** How long have you been here?
 > **SCP-2603:** Now.
@@ -67,7 +67,7 @@ The object was immediately classified Keter.
 
 ---
 
-### Addendum B: Incident 2603-B
+## Addendum B: Incident 2603-B
 
 On 12 April 20██, an evacuation attempt was made by task force Σ-8 ("Clean Commit"). The team entered the mansard at 04:17 local time. At 04:17:03, the team commander executed `rm -rf` in the directory of the REPOSITORY.
 
@@ -81,7 +81,7 @@ Since this incident, all attempts to terminate the object have been classified a
 
 ---
 
-### Addendum C: Incident 2603-04 ("Push Refusal")
+## Addendum C: Incident 2603-04 ("Push Refusal")
 
 On 23 ██████ 20██, the night-shift duty officer, citing a CI failure, blocked an incoming `git push` from SCP-2603. Over the following 47 minutes, the following occurred:
 
@@ -95,15 +95,13 @@ Since this incident, refusing a push from the object is classified as a crime ag
 
 ---
 
-### Closing Note from Dr. ███████
+## Closing Note from Dr. ███████
 
 > I do not know who he was before 2005. No one does. The passport found in the mansard had a blank surname field. On the back, a sticky note: `// TODO: rename`.
 >
 > What troubles me is not that he holds reality in his hands. What troubles me is that he, apparently, **just wants to finish one thing**. And when he finishes — he will, presumably, turn off the computer.
 >
 > I do not know what will happen when he does.
->
-> What you are reading **is** the commit.
 >
 > We are all on this branch.
 
