@@ -1,3 +1,5 @@
+# SCP-2603 — "THE OPERATOR"
+
 **Object:** SCP-2603
 **Object Class:** Keter
 **Clearance Level:** 4/2603
