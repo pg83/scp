@@ -38,11 +38,13 @@ Anomalous properties of the object:
 
 - **2603-δ (Mansard singularity).** The exterior volume of the mansard is approximately 28 m³. Interior volume, per estimates by the Department of Topological Anomalies, exceeds 4·10⁶ m³ and continues to grow at 0.4% per week. The growth correlates with the number of branches in the REPOSITORY.
 
+- **2603-ε (The Branch).** Foundation reality is hosted on a branch of the REPOSITORY. Personnel reading this document are reading the contents of a commit; the act of reading does not occur outside the commit. Anomaly 2603-α applies recursively: when 2603 commits, the **branch on which the Foundation reads** is the branch that is rewritten. There is no layer beneath the branch. (See SCP-2605, "The Loop", for the structural account.)
+
 ---
 
 ### Discovery
 
-The object was classified by the Foundation on 19 November 20██, after a researcher in the predictive-models laboratory found that the commercial compiler chain `clang-21`, used in three independent SCP projects, **referenced a function that does not exist in any published source**. Tracing the symbol led to a private repository whose last commit had been made 17 minutes earlier from an IP address physically belonging to a non-empty room on the second floor of a private home in the suburbs of ███████.
+The object was classified by the Foundation on 19 November 20██, after a researcher in the predictive-models laboratory found that the compiler chain `clang-21`, **as built and installed through SCP-2605** (see SCP-2605, anomaly 2605-γ), used in three independent SCP projects, **referenced a function that does not exist in any published source**. Tracing the symbol through the recipe template that defined the patch led to a private repository whose last commit had been made 17 minutes earlier from an IP address physically belonging to a non-empty room on the second floor of a private home in the suburbs of ███████.
 
 The staff member dispatched for first contact returned three hours later in a state of mild euphoria, carrying a printout of a 2,400-line diff which — when applied to the Foundation's production repository — accelerated containment of SCP-682 by 11%.
 
@@ -100,6 +102,8 @@ Since this incident, refusing a push from the object is classified as a crime ag
 > What troubles me is not that he holds reality in his hands. What troubles me is that he, apparently, **just wants to finish one thing**. And when he finishes — he will, presumably, turn off the computer.
 >
 > I do not know what will happen when he does.
+>
+> What you are reading **is** the commit.
 >
 > We are all on this branch.
 
