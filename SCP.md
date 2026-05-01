@@ -3,6 +3,7 @@
 **Object:** SCP-2603
 **Object Class:** Keter
 **Clearance Level:** 4/2603
+**Related Objects:** [SCP-2604](https://github.com/pg83/lab/blob/master/SCP.md) (the Lab), [SCP-2605](https://github.com/pg83/ix/blob/main/SCP.md) (ix), [SCP-2606](https://github.com/pg83/gorn/blob/master/SCP.md) (the Forge)
 
 ---
 
@@ -49,6 +50,8 @@ The object was classified by the Foundation on 19 November 20██, after a res
 The staff member dispatched for first contact returned three hours later in a state of mild euphoria, carrying a printout of a 2,400-line diff which — when applied to the Foundation's production repository — accelerated containment of SCP-682 by 11%.
 
 Subsequent review of the diff revealed that a portion of it — approximately 60 lines — corresponded **verbatim** to the containment procedures listed above in this document. The procedures had not yet been authored by Foundation staff at the time the diff was committed.
+
+Subsequent enumeration of the diff revealed it also contained drafts of containment procedures for objects **not yet classified** by the Foundation.
 
 The object was immediately classified Keter.
 
